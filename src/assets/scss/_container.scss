@@ -3,22 +3,20 @@
     max-width: $container;
     margin: 0 auto;
 
-
-
-
-
     @media (max-width: $container) {
-        padding: 0 2.4rem;
+        padding: 0 20px;
+    }
+
+    @media (max-width: $bp-tablet) {
+        max-width: $width-content-tablet;
+    }
+
+    @media (max-width: $bp-tablet-md) {
+        max-width: $width-content-tablet-md;
     }
 
     @media (max-width: $bp-mobile) {
-        max-width: 100%;
-        padding: 0 2rem;
-
-        &.registration-container {
-            padding: 0;
-            z-index: 1;
-        }
+        max-width: $width-content-mobile;
     }
 
 }

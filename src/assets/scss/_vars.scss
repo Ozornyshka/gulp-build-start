@@ -1,67 +1,12 @@
-$green: #33682C;
-$green-dark: #284622;
-$green-light: #57b04a;
-$yellow: #F6D64C;
-$orange: #FF5722;
-$orange-light: #FF6929;
-$orange-dark: #CC3D00;
-$red: #CF2535;
-$blue: #122569;
-$blue-light: #3750A9;
-$blue-md: #0B0D17;
-$blue-dark: #020A27;
-$gray-dark: #7E7E7E;
-$gray-light: #E7E7E7;
-$white: #FFFFFF;
-$mask: rgba(#1D2730, .7);
-
-
-
-//////////// New var color ////////////////////
-
-/* черный */
-$textColor:#020A27;
-
-
-
-$bg: #FFFFFF;
-$white-1: #FFFFFF;
-$white-2: #FFFFFF;
-$black-1: #2F2F2F;
-$gray-1: #B4B4B4;
-$green-1: #C5CDE9;
-$transition: 1.25s;
-
-
-// registration
-$btnColor: #020A27;
-$socialHover:#3750A9;
-
-
-
-$bp-laptop: 1216px;
+$bp-laptop: 1200px;
 $bp-tablet: 992px;
 $bp-tablet-md: 768px;
 $bp-mobile: 576px;
 
 
-$container: 1216px;
+$container: 1140px;
 
 $width-content: 904px;
-$width-content-tablet: 720px;
-$width-content-tablet-md: 540px;
+$width-content-tablet: 960px;
+$width-content-tablet-md: 720px;
 $width-content-mobile: 100%;
-$width-sidebar: 290px;
-
-
-
-
-
-
-
-$form-floating-padding-x: 2rem;
-$form-floating-padding-y: 1.5rem;
-$form-floating-input-padding-t: 2.3rem;
-$form-floating-input-padding-b: .625rem;
-$form-floating-label-opacity: .65;
-$form-floating-label-transform: scale(.85) translateY(-.5rem) translateX(.15rem);
