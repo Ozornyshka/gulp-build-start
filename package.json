@@ -30,7 +30,7 @@
         "gulp-uglify": "^3.0.2",
         "panini": "^1.7.1",
         "webpack": "^5.21.2",
-        "webpack-stream": "^6.1.2",
+        "webpack-stream": "^6.1.2"
     },
     "browserslist": [
         "last 1 version",
